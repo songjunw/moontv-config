@@ -1,0 +1,2 @@
+# moontv-config
+config.json
